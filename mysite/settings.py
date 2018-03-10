@@ -25,7 +25,7 @@ SECRET_KEY = 'y3b8f)1!n%@$gjipjakbyb=#86puxo&6(ck4vh4t9+$*n)qjwf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['eternizar.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','eternizar.pythonanywhere.com']
 
 
 # Application definition
